@@ -21,9 +21,6 @@
     "type": "git",
     "url": "https://github.com/burdiuz/js-type-checker-simple-reporting.git"
   },
-  "dependencies": {
-    "@actualwave/has-own": "0.0.1"
-  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
